@@ -4,7 +4,6 @@
 
 <p align="center">
   <i>Repositorio del Equipo 1 — Fundamentos de Programación</i><br>
-  <b>“El código no miente. Los humanos sí.”</b>
 </p>
 
 ---
@@ -20,20 +19,17 @@ Funciones anidadas
 Modularidad del código
 Buenas prácticas de programación
 
-yaml
-Copiar código
-
 ---
 
 ### ⚙️ ESTRUCTURA DEL PROYECTO
-📁 Ejemplos-Funciones/
-├── main.c
-├── funciones.c
-├── funciones.h
-└── README.md
 
-yaml
-Copiar código
+📁 Ejemplos-Funciones/
+├── 📁 codigos/ # Carpeta con los programas en C
+│ ├── main.c
+│ ├── funciones.c
+│ ├── funciones.h
+│ └── ejemplos_extra.c
+├── README.md
 
 ---
 
@@ -46,18 +42,6 @@ Se exploran conceptos clave de la **modularización** en C, mostrando cómo las 
 dividir, optimizar y mantener el código más limpio, entendible y reutilizable.
 
 ---
-
-### 💬 FRASE DEL EQUIPO
-> “El código perfecto no existe… pero intentamos acercarnos cada vez más.”  
-
----
-
-root@equipo1:~$ Compilando conocimiento...
-root@equipo1:~$ Funciones cargadas correctamente.
-root@equipo1:~$ Sistema listo para la exposición 🚀
-
-yaml
-Copiar código
 
 ---
 
