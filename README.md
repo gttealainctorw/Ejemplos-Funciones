@@ -21,15 +21,19 @@ Buenas prácticas de programación
 
 ---
 
-### ⚙️ ESTRUCTURA DEL PROYECTO
 
-📁 Ejemplos-Funciones/
-├── 📁 codigos/ # Carpeta con los programas en C
-│ ├── main.c
-│ ├── funciones.c
-│ ├── funciones.h
-│ └── ejemplos_extra.c
+---
+
+### ⚙️ ESTRUCTURA DEL PROYECTO
+```bash
+Ejemplos-Funciones/
+├── codigos/              # Carpeta con los programas en C
+│   ├── main.c
+│   ├── funciones.c
+│   ├── funciones.h
+│   └── ejemplos_extra.c
 ├── README.md
+└── LICENSE (opcional)
 
 ---
 
