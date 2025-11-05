@@ -9,6 +9,7 @@
 ---
 
 ### 🧠 TEMAS QUE ABORDAREMOS
+```bash
 
 Introducción a las funciones
 Parámetros y argumentos
@@ -18,7 +19,7 @@ Funciones recursivas
 Funciones anidadas
 Modularidad del código
 Buenas prácticas de programación
-
+```
 ---
 
 
@@ -34,7 +35,7 @@ Ejemplos-Funciones/
 │   └── ejemplos_extra.c
 ├── README.md
 └── LICENSE (opcional)
-
+```
 ---
 
 ### 🧩 DESCRIPCIÓN
