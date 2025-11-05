@@ -1,6 +1,6 @@
 <!-- 💀 Mr. Robot Style README 💀 -->
 <p align="center">
-  <img src="https://i.imgur.com/fJx6Woe.gif" width="100%" alt="Mr Robot Banner">
+  <img src="https://i.imgur.com/5M6Jb5x.gif" width="100%" alt="Mr Robot Banner">
 </p>
 
 <h1 align="center">🖥️ Ejemplos - Funciones</h1>
